@@ -6,3 +6,5 @@ My Github Portfolio
 - Learn AI & Data Science
 - prepare for GATE DA
 - Build projects 
+## Projects
+- Python Calculator
